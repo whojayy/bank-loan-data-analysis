@@ -4,10 +4,6 @@
 
   This project utilizes SQL and Tableau to analyze a dataset of U.S. bank loan data for the year 2021, <br /> generating a Tableau visualization report that consists of three dashboards: Summary, Overview, and Details.
 
-  <p align="center">
-  <a href="https://public.tableau.com/app/profile/whojayy/viz/BankLoanDataAnalysisProject/SUMMARY"><strong>➥ Live Demo</strong></a>
-  </p>
-
   <br />
   
   *Dashboard Demo Screenshots*
@@ -65,5 +61,6 @@ In the ```details dashboard```, you can also click on filters for Purpose, Grade
 **Verification Status:** Verification Status indicates whether the borrower's financial information has been verified. It assesses data accuracy.
 
 **Loan Status:** Loan Status indicates the current state of the loan (e.g., fully paid, current, default). It tracks loan performance.
-```
+
+**Author: Jay Mewada**
 
