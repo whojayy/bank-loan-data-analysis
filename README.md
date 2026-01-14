@@ -2,14 +2,14 @@
 
   <h2 align="center">Bank Loan Data Analysis</h2>
 
-  This project utilizes SQL and Tableau to analyze a dataset of U.S. bank loan data for the year 2021, <br /> generating a Tableau visualization report that consists of three dashboards: Summary, Overview, and Details.
+  This project analyze a dataset of U.S. bank loan data for the year 2021, <br /> generating a Tableau visualization report that consists of three dashboards: Summary, Overview, and Details.
 
   <br />
   
   *Dashboard Demo Screenshots*
   ![Tableau Desktop Demo](./sample-screenshots/dashboard_outline.jpg)  
 
-  *When you enter my Tableau visualization project, if your screen cannot fully display all the content of the dashboard, <br /> please use your browser's zoom function to view the entire dashboard.*
+  *When you enter my visualization project, if your screen cannot fully display all the content of the dashboard, <br /> please use your browser's zoom function to view the entire dashboard.*
   
 
 </div>
